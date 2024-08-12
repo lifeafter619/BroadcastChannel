@@ -9,9 +9,9 @@ English | [简体中文](./README.zh-cn.md)
 ## ✨ Features
 
 - **Turn your Telegram Channel into a MicroBlog**
-- **SEO friendly**
+- **SEO friendly** `/sitemap.xml`
 - **0 JS on the browser side**
-- **RSS and RSS JSON**
+- **RSS and RSS JSON** `/rss.xml` `/rss.json`
 
 ## 🪧 Demo
 
@@ -32,6 +32,11 @@ English | [简体中文](./README.zh-cn.md)
 - [Steve Studio](https://tgc.surgeee.me/)
 - [LiFePO4:沙雕吐槽](https://lifepo4.top)
 - [Hotspot Hourly](https://hourly.top/)
+- [大河马中文财经新闻分享](https://a.xiaomi318.com/)
+- [\_My. Tricks 🎩 Collection](https://channel.mykeyvans.com)
+- [小报童专栏精选](https://xiaobaotong.genaiprism.site/)
+- [Fake news](https://fake-news.csgo.ovh/)
+- [miyi23's Geekhub资源分享](https://gh.miyi23.top/)
 
 ### Platform
 
