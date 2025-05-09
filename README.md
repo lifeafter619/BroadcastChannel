@@ -45,6 +45,9 @@ English | [简体中文](./README.zh-cn.md)
 - [Bboysoul的博客](https://tg.bboy.app/)
 - [MakerHunter](https://share.makerhunter.com/)
 - [ChatGPT/AI新闻聚合](https://g4f.icu/)
+- [Abner's memos](https://memos.abnerz6.top/)
+- [Appinn Talk](https://talk.appinn.net/)
+- [小报童优惠与排行榜](https://youhui.xiaobaoto.com/)
 
 ### Platform
 
@@ -115,6 +118,24 @@ SENTRY_PROJECT=SENTRY_PROJECT
 ## Telegram host name and static resource proxy, not recommended to modify
 HOST=telegram.dog
 STATIC_PROXY=
+
+## Enable Google Site Search
+GOOGLE_SEARCH_SITE=memo.miantiao.me
+
+## Enable tags page, separate tags with commas
+TAGS=tag1,tag2,tag3
+
+## Show comments
+COMMENTS=true
+
+## List of links in the Links page, Separate using commas and semicolons
+LINKS=Title1,URL1;Title2,URL3;Title3,URL3;
+
+## Sidebar Navigation Item, Separate using commas and semicolons
+NAVS=Title1,URL1;Title2,URL3;Title3,URL3;
+
+## Enable RSS beautify
+RSS_BEAUTIFY=true
 ```
 
 ## 🙋🏻 FAQs
@@ -129,5 +150,5 @@ STATIC_PROXY=
 ## ☕ Sponsor
 
 1. [Follow me on Telegram](https://t.me/miantiao_me)
-2. [Follow me on 𝕏](https://x.com/0xKaiBi)
+2. [Follow me on 𝕏](https://404.li/kai)
 3. [Sponsor me on GitHub](https://github.com/sponsors/ccbikai)
