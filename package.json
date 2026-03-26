@@ -1,7 +1,7 @@
 {
   "name": "broadcast-channel",
   "type": "module",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "private": true,
   "packageManager": "pnpm@10.33.0",
   "scripts": {
